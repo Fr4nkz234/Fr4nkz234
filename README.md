@@ -5,7 +5,7 @@ Tecnólogo en Seguridad Informática con bases sólidas en conceptos de redes, c
 
 ## Objetivo
 
-El objetivo de este portafolio es documentar y compartir los proyectos personales que desarrollo como parte de mi aprendizaje y crecimiento en las áreas de incident response, SIEM Operations, Threat Hunting, Email Analysis, Network Traffic Analysis, Malware Analysis y DFIR Operations.
+El objetivo de este portafolio es documentar y compartir los proyectos personales que desarrollo como parte de mi proceso de aprendizaje y crecimiento en las áreas de incident response, SIEM Operations, Threat Hunting, Email Analysis, Network Traffic Analysis, Malware Analysis y DFIR Operations.
 
 ## Skills
 
