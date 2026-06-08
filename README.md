@@ -13,7 +13,7 @@ El objetivo de este portafolio es documentar y compartir los proyectos personale
 |-----------------------------------------------|----------------------------|
 | Conocimiento práctico de la administración de sistemas Linux y Windows (incluido AD) | <a href="https://google.com">Todavia</a> |
 | Configuración de routers y equipos cisco | <a href="https://google.com">Todavía</a> |
-| Familiarizado con herramientas de seguridad SIEM y xdr (Splunk, Wazuh) | SOC Automation Lab|
+| Familiarizado con herramientas de seguridad SIEM y XDR (Splunk, Wazuh) | SOC Automation Lab|
 | Analisis de tráfico de red | Todavia |
 | Analisis de correos| Todavia |
 | Analisis de logs en entornos windows| Todavia |
