@@ -9,7 +9,7 @@ El objetivo de este portafolio es documentar y compartir los proyectos personale
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Projecto asociado          |
 |-----------------------------------------------|----------------------------|
 | Conocimiento práctico de la administración de sistemas Linux y Windows (incluido AD) | <a href="https://google.com">Todavia</a> |
 | Configuración de routers y equipos cisco | <a href="https://google.com">Todavía</a> |
